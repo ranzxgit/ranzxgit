@@ -1,6 +1,7 @@
 # 👋 About Me
 
-Hi! I'm Ranz.
+Hi! I'm Ranz. <img width="93" height="95" alt="graphics-dice-231882" src="https://github.com/user-attachments/assets/88a47607-9eab-4e38-9b46-e4255a85b6fe" />
+
 
 I'm a Computer Science student and an aspiring software developer passionate about programming, building applications, and learning new technologies.
 
