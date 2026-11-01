@@ -19,6 +19,7 @@ I'm a Computer Science student and an aspiring software developer passionate abo
 - Data Structures
 - Web Development
 - Git & GitHub
+- React
 
 ## 🚀 Goals
 
