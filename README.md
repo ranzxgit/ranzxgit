@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ranz! <img width="60" alt="dice" src="https://github.com/user-attachments/assets/88a47607-9eab-4e38-9b46-e4255a85b6fe" />
+# 👋 Hi, I'm Ranz! <img src="https://github.com/user-attachments/assets/88a47607-9eab-4e38-9b46-e4255a85b6fe" alt="dice" width="40" align="absmiddle" />
 
 💻 **First-Year BS Computer Science Student** | Aspiring Software Engineer & Full-Stack Developer
 
