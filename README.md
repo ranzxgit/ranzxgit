@@ -1,47 +1,47 @@
-# 👋 About Me
+# 👋 Hi, I'm Ranz! <img width="60" alt="dice" src="https://github.com/user-attachments/assets/88a47607-9eab-4e38-9b46-e4255a85b6fe" />
 
-Hi! I'm Ranz. <img width="93" height="95" alt="graphics-dice-231882" src="https://github.com/user-attachments/assets/88a47607-9eab-4e38-9b46-e4255a85b6fe" />
+💻 **First-Year BS Computer Science Student** | Aspiring Software Engineer & Full-Stack Developer
 
+I'm passionate about programming, building applications, and learning new technologies. I'm currently building my foundation in Java and web development, one project at a time.
 
-I'm a Computer Science student and an aspiring software developer passionate about programming, building applications, and learning new technologies.
+---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📚 Currently Learning
 
-- Java
-- Object-Oriented Programming
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+- Java and Object-Oriented Programming
 - Data Structures
-- Web Development
+- Web Development (front end and back end)
 - Git & GitHub
-- React
 
 ## 🚀 Goals
 
-- Become a Software Engineer
-- Build useful applications
-- Improve my programming skills
-- Create real-world projects
+- Become a Software Engineer / Full-Stack Developer
+- Build useful, real-world applications
+- Keep improving my programming skills
 
-## 🎮 Hobbies
 
-- 💻 Coding
+## 🎮 Beyond Code
+
 - 📸 Photography
-- 🎬 Video Editing
+- 🎬 Video editing (DaVinci Resolve)
 - 🎮 Gaming
 
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://komarev.com/ghpvc/?username=ranzxgit&icon=0&color=0)](https://visitcount.itsvg.in)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile views](https://komarev.com/ghpvc/?username=ranzxgit&label=Profile%20views&color=0e75b6&style=flat)
